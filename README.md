@@ -20,9 +20,9 @@ I used different technologies such as Python, Amazon Web Services (AWS), Apache 
 
 
 ## Summary
-• Engineered an end-to-end data pipeline using Apache Kafka, Python, and AWS services (EC2, S3, Glue, and Athena) to process and
-analyze real-time stock market data.
-• Implemented AWS Glue Crawler to automatically catalog data stored in S3 and used Athena to perform SQL queries, enabling
-efficient data retrieval and analysis.
-• Utilized Apache Kafka, hosted on AWS EC2 instances, as the central message broker to facilitate the seamless flow of real-time data
-between producers and consumers low latency in data processing.
+- Engineered an end-to-end data pipeline using Apache Kafka, Python, and AWS services (EC2, S3, Glue, and Athena) to process and analyze real-time stock market data.
+
+- Implemented AWS Glue Crawler to automatically catalog data stored in S3 and used Athena to perform SQL queries, enabling efficient data retrieval and analysis.
+
+- Utilized Apache Kafka, hosted on AWS EC2 instances, as the central message broker to facilitate the seamless flow of real-time data between producers and consumers, ensuring low latency in data processing.
+
